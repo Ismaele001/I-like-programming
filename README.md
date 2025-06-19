@@ -35,15 +35,14 @@ Il progetto è attualmente in fase beta, alcune funzioni e grafiche verranno per
 
 - Windows 10 o superiore  
 - Console a 256 colori o superiore   
-- 12mb di spazio su disco per il programma (16mb con dlc)
+- 16mb di spazio su disco per il programma (24mb con dlc)
 
 ---
 
 ## Installazione
 
-1. Scarica L'installer ufficiale(non scaricare installer esterni a questo sito) [Releases](link-alla-pagina-releases)  
-2. Avvia l'installer
-3. Dopo l'installazione Avvia `MoneyManager.exe`
+1. Scarica Il programma(non scaricare da siti esterni) [Releases](link-alla-pagina-releases)  
+2. Avvia `MoneyManager.exe`
 4. Per usare i DLC, scaricali dalla cartella `DLC` e posizionali nella cartella `Extra` in `Data`
 
 ---
