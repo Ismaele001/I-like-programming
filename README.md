@@ -25,9 +25,9 @@ Il progetto è attualmente in fase beta, alcune funzioni e grafiche verranno per
 ---
 ## Miglioramenti già in corso
 
--Grafica
--BCA System(Blocco Chiusura Automatica)
--DLC 1 "Money Calculator"
+- Grafica
+- BCA System(Blocco Chiusura Automatica)
+- DLC 1 "Money Calculator"
 
 ---
 
