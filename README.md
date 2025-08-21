@@ -47,7 +47,7 @@ Il progetto è attualmente in fase beta, alcune funzioni e grafiche verranno per
 
 ## Installazione
 
-1. Scarica Il programma(non scaricare da siti esterni) [Releases](https://github.com/Ismaele001/I-like-programming/releases/tag/v1.0beta)
+1. Scarica Il programma(non scaricare da siti esterni) [Releases](https://github.com/Ismaele001/I-like-programming/blob/main/SMMD)
 2. Avvia `MoneyManager.exe`
 4. Per usare i DLC, scaricali dalla cartella `DLC` e posizionali nella cartella `Extra` in `Data`
 
