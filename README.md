@@ -95,7 +95,7 @@ Non è constentita la distribuzione di copie modificate
 
 ## Note finali
 
-Questo progetto è ancora in beta, se si notano bug, se il programma si chiude senza preavviso, se il programma non si installa e/o non si avvia non esitate a contattarci! :)  
+Questo progetto è ancora in beta, se si notano bug, se il programma si chiude senza preavviso, se il programma non si avvia non esitate a contattarci! :)  
 Ogni feedback è prezioso e aiuta a migliorare l'applicazione.  
 
 Grazie per aver scelto Money Manager!  
