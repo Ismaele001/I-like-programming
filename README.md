@@ -1,5 +1,5 @@
 ---
-##Abbiamo rinscontrato un grave errore che impedisce il corretto funzionamento del programma, i download saranno momentaneamente sospesi
+## Abbiamo rinscontrato un grave errore che impedisce il corretto funzionamento del programma, i download saranno momentaneamente sospesi
 ---
 
 # Money Manager 1.0
