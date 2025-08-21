@@ -1,5 +1,7 @@
----
+
 # Abbiamo rinscontrato un errore che impedisce il corretto funzionamento del programma, i download saranno momentaneamente sospesi.
+
+Il nostro team sta lavorando per sistemare questo errore. Ci scusiamo per l'inconveniente.
 ---
 
 # Money Manager 1.0
