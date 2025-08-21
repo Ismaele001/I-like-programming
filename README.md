@@ -94,7 +94,7 @@ Non è constentita la distribuzione di copie modificate
 
 - **Autore:** ITteam™  
 - **Email:** [ismaeleturco@outlook.it]  
-- **GitHub:** [link al tuo profilo]  
+- **GitHub:** [(https://github.com/Ismaele001)]  
 
 ---
 
